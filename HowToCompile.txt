@@ -1,0 +1,20 @@
+Ensure Cmake is installed.
+
+	sudo apt install cmake
+
+Ensure SDL2 libraries are installed
+
+	sudo apt install libsdl2-dev
+
+Navigate to build directory
+
+	cd build
+
+Generate cmake makefile
+
+	cmake ..
+
+Compile and run
+
+	make
+	./soundvis
