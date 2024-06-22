@@ -6,8 +6,9 @@ Ensure SDL2 libraries are installed
 
 	sudo apt install libsdl2-dev
 
-Navigate to build directory
+Create and navigate to build directory
 
+	mkdir build
 	cd build
 
 Generate cmake makefile
