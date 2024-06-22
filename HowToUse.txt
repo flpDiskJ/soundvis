@@ -1,9 +1,0 @@
-First enter the number of the audio device you want to use as an input.
-
-Then the program will open the display window. Screen dimensions can be altered in main.cpp
-
-Keyboard 1-5 changes display type
-
-keyboard B, G, O, R, Y change color
-
-Keyboard Escape quits the program
