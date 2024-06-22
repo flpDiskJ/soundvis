@@ -1,3 +1,0 @@
-/home/jake/code/c/soundvis/build/CMakeFiles/soundvis.dir
-/home/jake/code/c/soundvis/build/CMakeFiles/edit_cache.dir
-/home/jake/code/c/soundvis/build/CMakeFiles/rebuild_cache.dir
